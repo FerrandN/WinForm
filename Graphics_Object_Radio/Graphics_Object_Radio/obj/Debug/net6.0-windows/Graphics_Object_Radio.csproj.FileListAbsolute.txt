@@ -1,0 +1,17 @@
+C:\Users\nferrand\Desktop\winform\WinForm\Graphics_Object_Radio\Graphics_Object_Radio\obj\Debug\net6.0-windows\Graphics_Object_Radio.csproj.AssemblyReference.cache
+C:\Users\nferrand\Desktop\winform\WinForm\Graphics_Object_Radio\Graphics_Object_Radio\obj\Debug\net6.0-windows\Graphics_Object_Radio.CheckBox_RadioButon.resources
+C:\Users\nferrand\Desktop\winform\WinForm\Graphics_Object_Radio\Graphics_Object_Radio\obj\Debug\net6.0-windows\Graphics_Object_Radio.csproj.GenerateResource.cache
+C:\Users\nferrand\Desktop\winform\WinForm\Graphics_Object_Radio\Graphics_Object_Radio\obj\Debug\net6.0-windows\Graphics_Object_Radio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nferrand\Desktop\winform\WinForm\Graphics_Object_Radio\Graphics_Object_Radio\obj\Debug\net6.0-windows\Graphics_Object_Radio.AssemblyInfoInputs.cache
+C:\Users\nferrand\Desktop\winform\WinForm\Graphics_Object_Radio\Graphics_Object_Radio\obj\Debug\net6.0-windows\Graphics_Object_Radio.AssemblyInfo.cs
+C:\Users\nferrand\Desktop\winform\WinForm\Graphics_Object_Radio\Graphics_Object_Radio\obj\Debug\net6.0-windows\Graphics_Object_Radio.csproj.CoreCompileInputs.cache
+C:\Users\nferrand\Desktop\winform\WinForm\Graphics_Object_Radio\Graphics_Object_Radio\bin\Debug\net6.0-windows\Graphics_Object_Radio.exe
+C:\Users\nferrand\Desktop\winform\WinForm\Graphics_Object_Radio\Graphics_Object_Radio\bin\Debug\net6.0-windows\Graphics_Object_Radio.deps.json
+C:\Users\nferrand\Desktop\winform\WinForm\Graphics_Object_Radio\Graphics_Object_Radio\bin\Debug\net6.0-windows\Graphics_Object_Radio.runtimeconfig.json
+C:\Users\nferrand\Desktop\winform\WinForm\Graphics_Object_Radio\Graphics_Object_Radio\bin\Debug\net6.0-windows\Graphics_Object_Radio.dll
+C:\Users\nferrand\Desktop\winform\WinForm\Graphics_Object_Radio\Graphics_Object_Radio\bin\Debug\net6.0-windows\Graphics_Object_Radio.pdb
+C:\Users\nferrand\Desktop\winform\WinForm\Graphics_Object_Radio\Graphics_Object_Radio\obj\Debug\net6.0-windows\Graphics_Object_Radio.dll
+C:\Users\nferrand\Desktop\winform\WinForm\Graphics_Object_Radio\Graphics_Object_Radio\obj\Debug\net6.0-windows\refint\Graphics_Object_Radio.dll
+C:\Users\nferrand\Desktop\winform\WinForm\Graphics_Object_Radio\Graphics_Object_Radio\obj\Debug\net6.0-windows\Graphics_Object_Radio.pdb
+C:\Users\nferrand\Desktop\winform\WinForm\Graphics_Object_Radio\Graphics_Object_Radio\obj\Debug\net6.0-windows\Graphics_Object_Radio.genruntimeconfig.cache
+C:\Users\nferrand\Desktop\winform\WinForm\Graphics_Object_Radio\Graphics_Object_Radio\obj\Debug\net6.0-windows\ref\Graphics_Object_Radio.dll

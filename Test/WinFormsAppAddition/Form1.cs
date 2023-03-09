@@ -1,92 +1,90 @@
+using MyClassTest;
+
 namespace WinFormsAppAddition
 {
     public partial class Form1 : Form
     {
-        List<int> numbers = new List<int>();
+        Addition a;
+
         public Form1()
         {
             InitializeComponent();
+            a = new Addition();
+        }
+
+        private void buttonThatAddNumber_Click(object sender, EventArgs e)
+        {
+            // add number from button, use tag as reference
+            Button btn = sender as Button;
+            this.displayNumbersToAdd.Text += ((this.displayNumbersToAdd.Text != "" ? "+" : "") + btn.Tag);
+            a.AddNumbers(int.Parse((string)btn.Tag));
         }
 
         private void buttonThatAdd0_Click(object sender, EventArgs e)
         {
-            this.displayNumbersToAdd.Text += ((this.displayNumbersToAdd.Text != "" ? "+" : "") + "0");
-            numbers.Add(0);
             
         }
 
         private void buttonThatAdd1_Click(object sender, EventArgs e)
         {
-            this.displayNumbersToAdd.Text += ((this.displayNumbersToAdd.Text != "" ? "+" : "") + "1");
-            numbers.Add(1);
+
         }
 
         private void buttonThatAdd2_Click(object sender, EventArgs e)
         {
-            this.displayNumbersToAdd.Text += ((this.displayNumbersToAdd.Text != "" ? "+" : "") + "2");
-            numbers.Add(2);
+
         }
 
         private void buttonThatAdd3_Click(object sender, EventArgs e)
         {
-            this.displayNumbersToAdd.Text += ((this.displayNumbersToAdd.Text != "" ? "+" : "") + "3");
-            numbers.Add(3);
+
         }
 
         private void buttonThatAdd4_Click(object sender, EventArgs e)
         {
-            this.displayNumbersToAdd.Text += ((this.displayNumbersToAdd.Text != "" ? "+" : "") + "4");
-            numbers.Add(4);
+
         }
 
         private void buttonThatAdd5_Click(object sender, EventArgs e)
         {
-            this.displayNumbersToAdd.Text += ((this.displayNumbersToAdd.Text != "" ? "+" : "") + "5");
-            numbers.Add(5);
+
         }
 
         private void buttonThatAdd6_Click(object sender, EventArgs e)
         {
-            this.displayNumbersToAdd.Text += ((this.displayNumbersToAdd.Text != "" ? "+" : "") + "6");
-            numbers.Add(6);
+
         }
 
         private void buttonThatAdd7_Click(object sender, EventArgs e)
         {
-            this.displayNumbersToAdd.Text += ((this.displayNumbersToAdd.Text != "" ? "+" : "") + "7");
-            numbers.Add(7);
+
         }
 
         private void buttonThatAdd8_Click(object sender, EventArgs e)
         {
-            this.displayNumbersToAdd.Text += ((this.displayNumbersToAdd.Text != "" ? "+" : "") + "8");
-            numbers.Add(8);
+
         }
 
         private void buttonThatAdd9_Click(object sender, EventArgs e)
         {
-            this.displayNumbersToAdd.Text += ((this.displayNumbersToAdd.Text != "" ? "+" : "") + "9");
-            numbers.Add(9);
+
         }
 
         private void buttonThatCalculate_Click(object sender, EventArgs e)
         {
-            int result = 0;
-            foreach (int number in numbers)
-            { result += number; }
-            this.displayNumbersToAdd.Text += " = " + result;
-            delete();
+            this.displayNumbersToAdd.Text += "=" + a.CalculateResults();
+            a.Reset();
         }
 
         private void buttonThatClear_Click(object sender, EventArgs e)
         {
             this.displayNumbersToAdd.Text = "";
-            delete();
+            a.Reset();
         }
 
-        private void delete()
+        private void comboBox1_SelectionChangeCommitted(object sender, EventArgs e)
         {
-          numbers.Clear();
+
         }
     }
 }
