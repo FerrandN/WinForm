@@ -26,60 +26,29 @@ namespace Graphics_Object_Radio
                 labelToCopyTo.Text = textBoxTypeText.Text.ToLower();
 
             else
-            labelToCopyTo.Text = textBoxTypeText.Text;
+                labelToCopyTo.Text = textBoxTypeText.Text;
+
+            if(textBoxTypeText.Text == "")
+            {
+                checkBoxCasse.Checked = false;
+                checkBoxCouleurDuFond.Checked = false;
+                checkBoxCouleurDesCaracteres.Checked = false;
+            }
         }
 
         private void checkBoxCouleurDuFond_CheckedChanged(object sender, EventArgs e)
         {
-            if(checkBoxCouleurDuFond.Checked)
-            {
-                this.flowLayoutPanel1.Enabled = true;
-            }
-            else
-            {
-                this.flowLayoutPanel1.Enabled = false;
-                this.radioButtonFondRouge.Checked = false;
-                this.radioButtonVert.Checked = false;
-                this.radioButtonBleu.Checked = false;
-                this.labelToCopyTo.BackColor = Color.Transparent;
-            }
+            changeCheckBoxCouleurFond();
         }
 
         private void checkBoxCouleurDesCaractères_CheckedChanged(object sender, EventArgs e)
         {
-            if (checkBoxCouleurDesCaracteres.Checked)
-            {
-                this.flowLayoutPanel2.Enabled = true;
-            }
-            else
-            {
-                this.flowLayoutPanel2.Enabled = false;
-                this.radioButtonChoixRouge.Checked = false;
-                this.radioButtonBlanc.Checked = false;
-                this.radioButtonNoir.Checked = false;
-                this.labelToCopyTo.ForeColor = Color.Black;
-            }
+            changeCheckBoxCouleurDesCaracteres();
         }
 
         private void checkBoxCasse_CheckedChanged(object sender, EventArgs e)
         {
-            if (checkBoxCasse.Checked)
-            {
-                this.flowLayoutPanel3.Enabled = true;
-            }
-            else
-            {
-                this.flowLayoutPanel3.Enabled = false;
-                if(radioButtonMajuscules.Checked)
-                {
-                    radioButtonMajuscules.Checked = false;
-                }
-                if (radioButtonMinuscules.Checked)
-                {
-                    radioButtonMinuscules.Checked = false;
-                }
-                labelToCopyTo.Text = textBoxTypeText.Text;
-            }
+            changeCheckBoxCasse();
         }
 
         private void radioButtonFondRouge_CheckedChanged(object sender, EventArgs e)
@@ -125,6 +94,59 @@ namespace Graphics_Object_Radio
         private void radioButtonMajuscules_CheckedChanged(object sender, EventArgs e)
         {
             labelToCopyTo.Text = textBoxTypeText.Text.ToUpper();
+        }
+
+        private void changeCheckBoxCouleurFond()
+        {
+            if (checkBoxCouleurDuFond.Checked)
+            {
+                this.flowLayoutPanel1.Enabled = true;
+            }
+            else
+            {
+                this.flowLayoutPanel1.Enabled = false;
+                this.radioButtonFondRouge.Checked = false;
+                this.radioButtonVert.Checked = false;
+                this.radioButtonBleu.Checked = false;
+                this.labelToCopyTo.BackColor = Color.Transparent;
+            }
+        }
+
+        private void changeCheckBoxCouleurDesCaracteres()
+        {
+            if (checkBoxCouleurDesCaracteres.Checked)
+            {
+                this.flowLayoutPanel2.Enabled = true;
+            }
+            else
+            {
+                this.flowLayoutPanel2.Enabled = false;
+                this.radioButtonChoixRouge.Checked = false;
+                this.radioButtonBlanc.Checked = false;
+                this.radioButtonNoir.Checked = false;
+                this.labelToCopyTo.ForeColor = Color.Black;
+            }
+        }
+
+        private void changeCheckBoxCasse()
+        {
+            if (checkBoxCasse.Checked)
+            {
+                this.flowLayoutPanel3.Enabled = true;
+            }
+            else
+            {
+                this.flowLayoutPanel3.Enabled = false;
+                if (radioButtonMajuscules.Checked)
+                {
+                    radioButtonMajuscules.Checked = false;
+                }
+                if (radioButtonMinuscules.Checked)
+                {
+                    radioButtonMinuscules.Checked = false;
+                }
+                labelToCopyTo.Text = textBoxTypeText.Text;
+            }
         }
     }
 }

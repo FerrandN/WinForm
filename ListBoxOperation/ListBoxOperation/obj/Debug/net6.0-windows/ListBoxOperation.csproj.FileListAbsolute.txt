@@ -1,0 +1,17 @@
+C:\Users\nferrand\Desktop\winform\WinForm\ListBoxOperation\ListBoxOperation\bin\Debug\net6.0-windows\ListBoxOperation.exe
+C:\Users\nferrand\Desktop\winform\WinForm\ListBoxOperation\ListBoxOperation\bin\Debug\net6.0-windows\ListBoxOperation.deps.json
+C:\Users\nferrand\Desktop\winform\WinForm\ListBoxOperation\ListBoxOperation\bin\Debug\net6.0-windows\ListBoxOperation.runtimeconfig.json
+C:\Users\nferrand\Desktop\winform\WinForm\ListBoxOperation\ListBoxOperation\bin\Debug\net6.0-windows\ListBoxOperation.dll
+C:\Users\nferrand\Desktop\winform\WinForm\ListBoxOperation\ListBoxOperation\bin\Debug\net6.0-windows\ListBoxOperation.pdb
+C:\Users\nferrand\Desktop\winform\WinForm\ListBoxOperation\ListBoxOperation\obj\Debug\net6.0-windows\ListBoxOperation.csproj.AssemblyReference.cache
+C:\Users\nferrand\Desktop\winform\WinForm\ListBoxOperation\ListBoxOperation\obj\Debug\net6.0-windows\ListBoxOperation.ListBoxOperation.resources
+C:\Users\nferrand\Desktop\winform\WinForm\ListBoxOperation\ListBoxOperation\obj\Debug\net6.0-windows\ListBoxOperation.csproj.GenerateResource.cache
+C:\Users\nferrand\Desktop\winform\WinForm\ListBoxOperation\ListBoxOperation\obj\Debug\net6.0-windows\ListBoxOperation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nferrand\Desktop\winform\WinForm\ListBoxOperation\ListBoxOperation\obj\Debug\net6.0-windows\ListBoxOperation.AssemblyInfoInputs.cache
+C:\Users\nferrand\Desktop\winform\WinForm\ListBoxOperation\ListBoxOperation\obj\Debug\net6.0-windows\ListBoxOperation.AssemblyInfo.cs
+C:\Users\nferrand\Desktop\winform\WinForm\ListBoxOperation\ListBoxOperation\obj\Debug\net6.0-windows\ListBoxOperation.csproj.CoreCompileInputs.cache
+C:\Users\nferrand\Desktop\winform\WinForm\ListBoxOperation\ListBoxOperation\obj\Debug\net6.0-windows\ListBoxOperation.dll
+C:\Users\nferrand\Desktop\winform\WinForm\ListBoxOperation\ListBoxOperation\obj\Debug\net6.0-windows\refint\ListBoxOperation.dll
+C:\Users\nferrand\Desktop\winform\WinForm\ListBoxOperation\ListBoxOperation\obj\Debug\net6.0-windows\ListBoxOperation.pdb
+C:\Users\nferrand\Desktop\winform\WinForm\ListBoxOperation\ListBoxOperation\obj\Debug\net6.0-windows\ListBoxOperation.genruntimeconfig.cache
+C:\Users\nferrand\Desktop\winform\WinForm\ListBoxOperation\ListBoxOperation\obj\Debug\net6.0-windows\ref\ListBoxOperation.dll
