@@ -1,0 +1,12 @@
+C:\Users\nferrand\Desktop\winform\WinForm\ListBoxEtComboBox\ClassLibrarySelectedList\bin\Debug\net6.0\ClassLibrarySelectedList.deps.json
+C:\Users\nferrand\Desktop\winform\WinForm\ListBoxEtComboBox\ClassLibrarySelectedList\bin\Debug\net6.0\ClassLibrarySelectedList.dll
+C:\Users\nferrand\Desktop\winform\WinForm\ListBoxEtComboBox\ClassLibrarySelectedList\bin\Debug\net6.0\ClassLibrarySelectedList.pdb
+C:\Users\nferrand\Desktop\winform\WinForm\ListBoxEtComboBox\ClassLibrarySelectedList\obj\Debug\net6.0\ClassLibrarySelectedList.csproj.AssemblyReference.cache
+C:\Users\nferrand\Desktop\winform\WinForm\ListBoxEtComboBox\ClassLibrarySelectedList\obj\Debug\net6.0\ClassLibrarySelectedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nferrand\Desktop\winform\WinForm\ListBoxEtComboBox\ClassLibrarySelectedList\obj\Debug\net6.0\ClassLibrarySelectedList.AssemblyInfoInputs.cache
+C:\Users\nferrand\Desktop\winform\WinForm\ListBoxEtComboBox\ClassLibrarySelectedList\obj\Debug\net6.0\ClassLibrarySelectedList.AssemblyInfo.cs
+C:\Users\nferrand\Desktop\winform\WinForm\ListBoxEtComboBox\ClassLibrarySelectedList\obj\Debug\net6.0\ClassLibrarySelectedList.csproj.CoreCompileInputs.cache
+C:\Users\nferrand\Desktop\winform\WinForm\ListBoxEtComboBox\ClassLibrarySelectedList\obj\Debug\net6.0\ClassLibrarySelectedList.dll
+C:\Users\nferrand\Desktop\winform\WinForm\ListBoxEtComboBox\ClassLibrarySelectedList\obj\Debug\net6.0\refint\ClassLibrarySelectedList.dll
+C:\Users\nferrand\Desktop\winform\WinForm\ListBoxEtComboBox\ClassLibrarySelectedList\obj\Debug\net6.0\ClassLibrarySelectedList.pdb
+C:\Users\nferrand\Desktop\winform\WinForm\ListBoxEtComboBox\ClassLibrarySelectedList\obj\Debug\net6.0\ref\ClassLibrarySelectedList.dll
