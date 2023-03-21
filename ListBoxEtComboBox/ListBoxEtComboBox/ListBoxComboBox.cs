@@ -62,10 +62,18 @@ namespace ListBoxEtComboBox
                         buttonAllToRight.Enabled = false;
                     }
                 }
-                if(listBoxSelectedCountries.Items.Count >= 2)
+                if(listBoxSelectedCountries.Items.Count >= 2 && listBoxSelectedCountries.SelectedItem != null && listBoxSelectedCountries.SelectedIndex != 0 && listBoxSelectedCountries.SelectedIndex != listBoxSelectedCountries.Items.Count-1)
                 {
                     buttonNextUp.Enabled = true;
                     buttonNextDown.Enabled = true;
+                }
+                else if(listBoxSelectedCountries.SelectedIndex == 0)
+                {
+                    buttonNextDown.Enabled = true;
+                }
+                else if (listBoxSelectedCountries.SelectedIndex != listBoxSelectedCountries.Items.Count - 1 && listBoxSelectedCountries.Items.Count >= 2)
+                {
+                    buttonNextUp.Enabled = true;
                 }
             }
             comboBoxCountries.Text = null;
@@ -194,6 +202,15 @@ namespace ListBoxEtComboBox
             {
                 buttonNextUp.Enabled = true;
                 buttonNextDown.Enabled = true;
+            }
+            if(listBoxSelectedCountries.SelectedIndex == 0)
+            {
+                buttonNextUp.Enabled = false;
+            }
+
+            if (listBoxSelectedCountries.SelectedIndex == listBoxSelectedCountries.Items.Count -1)
+            {
+                buttonNextDown.Enabled = false;
             }
         }
 

@@ -1,0 +1,17 @@
+C:\Users\nferrand\Desktop\winform\WinForm\ComposantDeDefilement\ComposantDeDefilement\bin\Debug\net6.0-windows\ComposantDeDefilement.exe
+C:\Users\nferrand\Desktop\winform\WinForm\ComposantDeDefilement\ComposantDeDefilement\bin\Debug\net6.0-windows\ComposantDeDefilement.deps.json
+C:\Users\nferrand\Desktop\winform\WinForm\ComposantDeDefilement\ComposantDeDefilement\bin\Debug\net6.0-windows\ComposantDeDefilement.runtimeconfig.json
+C:\Users\nferrand\Desktop\winform\WinForm\ComposantDeDefilement\ComposantDeDefilement\bin\Debug\net6.0-windows\ComposantDeDefilement.dll
+C:\Users\nferrand\Desktop\winform\WinForm\ComposantDeDefilement\ComposantDeDefilement\bin\Debug\net6.0-windows\ComposantDeDefilement.pdb
+C:\Users\nferrand\Desktop\winform\WinForm\ComposantDeDefilement\ComposantDeDefilement\obj\Debug\net6.0-windows\ComposantDeDefilement.csproj.AssemblyReference.cache
+C:\Users\nferrand\Desktop\winform\WinForm\ComposantDeDefilement\ComposantDeDefilement\obj\Debug\net6.0-windows\ComposantDeDefilement.ComposantDeDefilement.resources
+C:\Users\nferrand\Desktop\winform\WinForm\ComposantDeDefilement\ComposantDeDefilement\obj\Debug\net6.0-windows\ComposantDeDefilement.csproj.GenerateResource.cache
+C:\Users\nferrand\Desktop\winform\WinForm\ComposantDeDefilement\ComposantDeDefilement\obj\Debug\net6.0-windows\ComposantDeDefilement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nferrand\Desktop\winform\WinForm\ComposantDeDefilement\ComposantDeDefilement\obj\Debug\net6.0-windows\ComposantDeDefilement.AssemblyInfoInputs.cache
+C:\Users\nferrand\Desktop\winform\WinForm\ComposantDeDefilement\ComposantDeDefilement\obj\Debug\net6.0-windows\ComposantDeDefilement.AssemblyInfo.cs
+C:\Users\nferrand\Desktop\winform\WinForm\ComposantDeDefilement\ComposantDeDefilement\obj\Debug\net6.0-windows\ComposantDeDefilement.csproj.CoreCompileInputs.cache
+C:\Users\nferrand\Desktop\winform\WinForm\ComposantDeDefilement\ComposantDeDefilement\obj\Debug\net6.0-windows\ComposantDeDefilement.dll
+C:\Users\nferrand\Desktop\winform\WinForm\ComposantDeDefilement\ComposantDeDefilement\obj\Debug\net6.0-windows\refint\ComposantDeDefilement.dll
+C:\Users\nferrand\Desktop\winform\WinForm\ComposantDeDefilement\ComposantDeDefilement\obj\Debug\net6.0-windows\ComposantDeDefilement.pdb
+C:\Users\nferrand\Desktop\winform\WinForm\ComposantDeDefilement\ComposantDeDefilement\obj\Debug\net6.0-windows\ComposantDeDefilement.genruntimeconfig.cache
+C:\Users\nferrand\Desktop\winform\WinForm\ComposantDeDefilement\ComposantDeDefilement\obj\Debug\net6.0-windows\ref\ComposantDeDefilement.dll

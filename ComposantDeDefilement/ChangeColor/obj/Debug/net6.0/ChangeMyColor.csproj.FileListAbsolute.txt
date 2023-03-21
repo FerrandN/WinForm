@@ -1,0 +1,12 @@
+C:\Users\nferrand\Desktop\winform\WinForm\ComposantDeDefilement\ChangeColor\bin\Debug\net6.0\ChangeMyColor.deps.json
+C:\Users\nferrand\Desktop\winform\WinForm\ComposantDeDefilement\ChangeColor\bin\Debug\net6.0\ChangeMyColor.dll
+C:\Users\nferrand\Desktop\winform\WinForm\ComposantDeDefilement\ChangeColor\bin\Debug\net6.0\ChangeMyColor.pdb
+C:\Users\nferrand\Desktop\winform\WinForm\ComposantDeDefilement\ChangeColor\obj\Debug\net6.0\ChangeMyColor.csproj.AssemblyReference.cache
+C:\Users\nferrand\Desktop\winform\WinForm\ComposantDeDefilement\ChangeColor\obj\Debug\net6.0\ChangeMyColor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nferrand\Desktop\winform\WinForm\ComposantDeDefilement\ChangeColor\obj\Debug\net6.0\ChangeMyColor.AssemblyInfoInputs.cache
+C:\Users\nferrand\Desktop\winform\WinForm\ComposantDeDefilement\ChangeColor\obj\Debug\net6.0\ChangeMyColor.AssemblyInfo.cs
+C:\Users\nferrand\Desktop\winform\WinForm\ComposantDeDefilement\ChangeColor\obj\Debug\net6.0\ChangeMyColor.csproj.CoreCompileInputs.cache
+C:\Users\nferrand\Desktop\winform\WinForm\ComposantDeDefilement\ChangeColor\obj\Debug\net6.0\ChangeMyColor.dll
+C:\Users\nferrand\Desktop\winform\WinForm\ComposantDeDefilement\ChangeColor\obj\Debug\net6.0\refint\ChangeMyColor.dll
+C:\Users\nferrand\Desktop\winform\WinForm\ComposantDeDefilement\ChangeColor\obj\Debug\net6.0\ChangeMyColor.pdb
+C:\Users\nferrand\Desktop\winform\WinForm\ComposantDeDefilement\ChangeColor\obj\Debug\net6.0\ref\ChangeMyColor.dll
