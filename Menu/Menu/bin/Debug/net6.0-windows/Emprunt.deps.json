@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Emprunt/1.0.0": {
+        "dependencies": {
+          "EmpruntLibrairies": "1.0.0"
+        },
+        "runtime": {
+          "Emprunt.dll": {}
+        }
+      },
+      "EmpruntLibrairies/1.0.0": {
+        "runtime": {
+          "EmpruntLibrairies.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Emprunt/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EmpruntLibrairies/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

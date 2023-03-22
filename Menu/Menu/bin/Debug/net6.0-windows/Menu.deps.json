@@ -1,0 +1,176 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Menu/1.0.0": {
+        "dependencies": {
+          "ChangeMyColor": "1.0.0",
+          "ComposantDeDefilement": "1.0.0",
+          "Emprunt": "1.0.0",
+          "IdentificationWindow": "1.0.0",
+          "InputCheck": "1.0.0",
+          "ListBoxEtComboBox": "1.0.0",
+          "ListBoxOperation": "1.0.0",
+          "TextWindow": "1.0.0",
+          "WinFormsAppAddition": "1.0.0"
+        },
+        "runtime": {
+          "Menu.dll": {}
+        }
+      },
+      "ChangeMyColor/1.0.0": {
+        "runtime": {
+          "ChangeMyColor.dll": {}
+        }
+      },
+      "ClassLibrarySelectedList/1.0.0": {
+        "runtime": {
+          "ClassLibrarySelectedList.dll": {}
+        }
+      },
+      "ComposantDeDefilement/1.0.0": {
+        "runtime": {
+          "ComposantDeDefilement.dll": {}
+        }
+      },
+      "Emprunt/1.0.0": {
+        "dependencies": {
+          "EmpruntLibrairies": "1.0.0"
+        },
+        "runtime": {
+          "Emprunt.dll": {}
+        }
+      },
+      "EmpruntLibrairies/1.0.0": {
+        "runtime": {
+          "EmpruntLibrairies.dll": {}
+        }
+      },
+      "Graphics_Object_Radio/1.0.0": {
+        "runtime": {
+          "Graphics_Object_Radio.dll": {}
+        }
+      },
+      "IdentificationWindow/1.0.0": {
+        "runtime": {
+          "IdentificationWindow.dll": {}
+        }
+      },
+      "InputCheck/1.0.0": {
+        "runtime": {
+          "InputCheck.dll": {}
+        }
+      },
+      "ListBoxEtComboBox/1.0.0": {
+        "dependencies": {
+          "ClassLibrarySelectedList": "1.0.0"
+        },
+        "runtime": {
+          "ListBoxEtComboBox.dll": {}
+        }
+      },
+      "ListBoxOperation/1.0.0": {
+        "runtime": {
+          "ListBoxOperation.dll": {}
+        }
+      },
+      "MyClassTest/1.0.0": {
+        "runtime": {
+          "MyClassTest.dll": {}
+        }
+      },
+      "TextWindow/1.0.0": {
+        "dependencies": {
+          "Graphics_Object_Radio": "1.0.0"
+        },
+        "runtime": {
+          "TextWindow.dll": {}
+        }
+      },
+      "WinFormsAppAddition/1.0.0": {
+        "dependencies": {
+          "MyClassTest": "1.0.0"
+        },
+        "runtime": {
+          "WinFormsAppAddition.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Menu/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ChangeMyColor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClassLibrarySelectedList/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ComposantDeDefilement/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Emprunt/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EmpruntLibrairies/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Graphics_Object_Radio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IdentificationWindow/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "InputCheck/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ListBoxEtComboBox/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ListBoxOperation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyClassTest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TextWindow/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WinFormsAppAddition/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

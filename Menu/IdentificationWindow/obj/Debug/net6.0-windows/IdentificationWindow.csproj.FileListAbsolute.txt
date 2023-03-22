@@ -1,0 +1,17 @@
+C:\Users\nferrand\Desktop\winform\WinForm\Menu\IdentificationWindow\bin\Debug\net6.0-windows\IdentificationWindow.exe
+C:\Users\nferrand\Desktop\winform\WinForm\Menu\IdentificationWindow\bin\Debug\net6.0-windows\IdentificationWindow.deps.json
+C:\Users\nferrand\Desktop\winform\WinForm\Menu\IdentificationWindow\bin\Debug\net6.0-windows\IdentificationWindow.runtimeconfig.json
+C:\Users\nferrand\Desktop\winform\WinForm\Menu\IdentificationWindow\bin\Debug\net6.0-windows\IdentificationWindow.dll
+C:\Users\nferrand\Desktop\winform\WinForm\Menu\IdentificationWindow\bin\Debug\net6.0-windows\IdentificationWindow.pdb
+C:\Users\nferrand\Desktop\winform\WinForm\Menu\IdentificationWindow\obj\Debug\net6.0-windows\IdentificationWindow.csproj.AssemblyReference.cache
+C:\Users\nferrand\Desktop\winform\WinForm\Menu\IdentificationWindow\obj\Debug\net6.0-windows\IdentificationWindow.IdentificationWindow.resources
+C:\Users\nferrand\Desktop\winform\WinForm\Menu\IdentificationWindow\obj\Debug\net6.0-windows\IdentificationWindow.csproj.GenerateResource.cache
+C:\Users\nferrand\Desktop\winform\WinForm\Menu\IdentificationWindow\obj\Debug\net6.0-windows\IdentificationWindow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nferrand\Desktop\winform\WinForm\Menu\IdentificationWindow\obj\Debug\net6.0-windows\IdentificationWindow.AssemblyInfoInputs.cache
+C:\Users\nferrand\Desktop\winform\WinForm\Menu\IdentificationWindow\obj\Debug\net6.0-windows\IdentificationWindow.AssemblyInfo.cs
+C:\Users\nferrand\Desktop\winform\WinForm\Menu\IdentificationWindow\obj\Debug\net6.0-windows\IdentificationWindow.csproj.CoreCompileInputs.cache
+C:\Users\nferrand\Desktop\winform\WinForm\Menu\IdentificationWindow\obj\Debug\net6.0-windows\IdentificationWindow.dll
+C:\Users\nferrand\Desktop\winform\WinForm\Menu\IdentificationWindow\obj\Debug\net6.0-windows\refint\IdentificationWindow.dll
+C:\Users\nferrand\Desktop\winform\WinForm\Menu\IdentificationWindow\obj\Debug\net6.0-windows\IdentificationWindow.pdb
+C:\Users\nferrand\Desktop\winform\WinForm\Menu\IdentificationWindow\obj\Debug\net6.0-windows\IdentificationWindow.genruntimeconfig.cache
+C:\Users\nferrand\Desktop\winform\WinForm\Menu\IdentificationWindow\obj\Debug\net6.0-windows\ref\IdentificationWindow.dll

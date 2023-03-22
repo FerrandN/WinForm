@@ -1,11 +1,11 @@
+C:\Users\nferrand\Desktop\winform\WinForm\Emprunts\EmpruntLibrairies\bin\Debug\net6.0\EmpruntLibrairies.deps.json
+C:\Users\nferrand\Desktop\winform\WinForm\Emprunts\EmpruntLibrairies\bin\Debug\net6.0\EmpruntLibrairies.dll
+C:\Users\nferrand\Desktop\winform\WinForm\Emprunts\EmpruntLibrairies\bin\Debug\net6.0\EmpruntLibrairies.pdb
 C:\Users\nferrand\Desktop\winform\WinForm\Emprunts\EmpruntLibrairies\obj\Debug\net6.0\EmpruntLibrairies.csproj.AssemblyReference.cache
 C:\Users\nferrand\Desktop\winform\WinForm\Emprunts\EmpruntLibrairies\obj\Debug\net6.0\EmpruntLibrairies.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\nferrand\Desktop\winform\WinForm\Emprunts\EmpruntLibrairies\obj\Debug\net6.0\EmpruntLibrairies.AssemblyInfoInputs.cache
 C:\Users\nferrand\Desktop\winform\WinForm\Emprunts\EmpruntLibrairies\obj\Debug\net6.0\EmpruntLibrairies.AssemblyInfo.cs
 C:\Users\nferrand\Desktop\winform\WinForm\Emprunts\EmpruntLibrairies\obj\Debug\net6.0\EmpruntLibrairies.csproj.CoreCompileInputs.cache
-C:\Users\nferrand\Desktop\winform\WinForm\Emprunts\EmpruntLibrairies\bin\Debug\net6.0\EmpruntLibrairies.deps.json
-C:\Users\nferrand\Desktop\winform\WinForm\Emprunts\EmpruntLibrairies\bin\Debug\net6.0\EmpruntLibrairies.dll
-C:\Users\nferrand\Desktop\winform\WinForm\Emprunts\EmpruntLibrairies\bin\Debug\net6.0\EmpruntLibrairies.pdb
 C:\Users\nferrand\Desktop\winform\WinForm\Emprunts\EmpruntLibrairies\obj\Debug\net6.0\EmpruntLibrairies.dll
 C:\Users\nferrand\Desktop\winform\WinForm\Emprunts\EmpruntLibrairies\obj\Debug\net6.0\refint\EmpruntLibrairies.dll
 C:\Users\nferrand\Desktop\winform\WinForm\Emprunts\EmpruntLibrairies\obj\Debug\net6.0\EmpruntLibrairies.pdb

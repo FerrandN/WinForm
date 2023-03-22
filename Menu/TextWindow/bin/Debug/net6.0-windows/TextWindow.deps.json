@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TextWindow/1.0.0": {
+        "dependencies": {
+          "Graphics_Object_Radio": "1.0.0"
+        },
+        "runtime": {
+          "TextWindow.dll": {}
+        }
+      },
+      "Graphics_Object_Radio/1.0.0": {
+        "runtime": {
+          "Graphics_Object_Radio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TextWindow/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Graphics_Object_Radio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

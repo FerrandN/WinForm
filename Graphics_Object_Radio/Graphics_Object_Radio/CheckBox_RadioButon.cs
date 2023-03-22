@@ -14,7 +14,7 @@ namespace Graphics_Object_Radio
 
         private void textBoxTextTyped_TextChanged(object sender, EventArgs e)
         {
-            
+
         }
 
         private void textBoxTypeText_TextChanged(object sender, EventArgs e)
@@ -28,7 +28,7 @@ namespace Graphics_Object_Radio
             else
                 labelToCopyTo.Text = textBoxTypeText.Text;
 
-            if(textBoxTypeText.Text == "")
+            if (textBoxTypeText.Text == "")
             {
                 checkBoxCasse.Checked = false;
                 checkBoxCouleurDuFond.Checked = false;

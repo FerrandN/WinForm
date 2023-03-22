@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nferrand\\source\\repos\\Test\\Test\\Test.csproj": {}
+    "C:\\Users\\nferrand\\Desktop\\winform\\WinForm\\Test\\Test\\Test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nferrand\\source\\repos\\Test\\MyClassTest\\MyClassTest.csproj": {
+    "C:\\Users\\nferrand\\Desktop\\winform\\WinForm\\Test\\MyClassTest\\MyClassTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nferrand\\source\\repos\\Test\\MyClassTest\\MyClassTest.csproj",
+        "projectUniqueName": "C:\\Users\\nferrand\\Desktop\\winform\\WinForm\\Test\\MyClassTest\\MyClassTest.csproj",
         "projectName": "MyClassTest",
-        "projectPath": "C:\\Users\\nferrand\\source\\repos\\Test\\MyClassTest\\MyClassTest.csproj",
+        "projectPath": "C:\\Users\\nferrand\\Desktop\\winform\\WinForm\\Test\\MyClassTest\\MyClassTest.csproj",
         "packagesPath": "C:\\Users\\nferrand\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nferrand\\source\\repos\\Test\\MyClassTest\\obj\\",
+        "outputPath": "C:\\Users\\nferrand\\Desktop\\winform\\WinForm\\Test\\MyClassTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -64,14 +64,14 @@
         }
       }
     },
-    "C:\\Users\\nferrand\\source\\repos\\Test\\Test\\Test.csproj": {
+    "C:\\Users\\nferrand\\Desktop\\winform\\WinForm\\Test\\Test\\Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nferrand\\source\\repos\\Test\\Test\\Test.csproj",
+        "projectUniqueName": "C:\\Users\\nferrand\\Desktop\\winform\\WinForm\\Test\\Test\\Test.csproj",
         "projectName": "Test",
-        "projectPath": "C:\\Users\\nferrand\\source\\repos\\Test\\Test\\Test.csproj",
+        "projectPath": "C:\\Users\\nferrand\\Desktop\\winform\\WinForm\\Test\\Test\\Test.csproj",
         "packagesPath": "C:\\Users\\nferrand\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nferrand\\source\\repos\\Test\\Test\\obj\\",
+        "outputPath": "C:\\Users\\nferrand\\Desktop\\winform\\WinForm\\Test\\Test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -93,8 +93,8 @@
           "net6.0-windows7.0": {
             "targetAlias": "net6.0-windows",
             "projectReferences": {
-              "C:\\Users\\nferrand\\source\\repos\\Test\\MyClassTest\\MyClassTest.csproj": {
-                "projectPath": "C:\\Users\\nferrand\\source\\repos\\Test\\MyClassTest\\MyClassTest.csproj"
+              "C:\\Users\\nferrand\\Desktop\\winform\\WinForm\\Test\\MyClassTest\\MyClassTest.csproj": {
+                "projectPath": "C:\\Users\\nferrand\\Desktop\\winform\\WinForm\\Test\\MyClassTest\\MyClassTest.csproj"
               }
             }
           }

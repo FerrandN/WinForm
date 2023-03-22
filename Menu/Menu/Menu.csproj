@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\CheckInput\InputCheck\InputCheck\InputCheck.csproj" />
+    <ProjectReference Include="..\..\ComposantDeDefilement\ChangeColor\ChangeMyColor.csproj" />
+    <ProjectReference Include="..\..\ComposantDeDefilement\ComposantDeDefilement\ComposantDeDefilement.csproj" />
+    <ProjectReference Include="..\..\Emprunts\Emprunt\Emprunt.csproj" />
+    <ProjectReference Include="..\..\ListBoxEtComboBox\ListBoxEtComboBox\ListBoxEtComboBox.csproj" />
+    <ProjectReference Include="..\..\ListBoxOperation\ListBoxOperation\ListBoxOperation.csproj" />
+    <ProjectReference Include="..\..\Test\WinFormsAppAddition\WinFormsAppAddition.csproj" />
+    <ProjectReference Include="..\IdentificationWindow\IdentificationWindow.csproj" />
+    <ProjectReference Include="..\TextWindow\TextWindow.csproj" />
+  </ItemGroup>
+
+</Project>
