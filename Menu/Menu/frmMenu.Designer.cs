@@ -57,6 +57,7 @@
             // 
             menuStripConnection.Items.AddRange(new ToolStripItem[] { toolStripMenuItemConnection, phase1ToolStripMenuItem, phase2ToolStripMenuItem, phase3ToolStripMenuItem, fenetresToolStripMenuItem });
             menuStripConnection.Location = new Point(0, 0);
+            menuStripConnection.MdiWindowListItem = fenetresToolStripMenuItem;
             menuStripConnection.Name = "menuStripConnection";
             menuStripConnection.Size = new Size(800, 24);
             menuStripConnection.TabIndex = 0;
@@ -166,20 +167,23 @@
             // toolStripMenuItemCascade
             // 
             toolStripMenuItemCascade.Name = "toolStripMenuItemCascade";
-            toolStripMenuItemCascade.Size = new Size(132, 22);
+            toolStripMenuItemCascade.Size = new Size(180, 22);
             toolStripMenuItemCascade.Text = "Cascade";
+            toolStripMenuItemCascade.Click += toolStripMenuItemCascade_Click;
             // 
             // toolStripMenuItemHorizontal
             // 
             toolStripMenuItemHorizontal.Name = "toolStripMenuItemHorizontal";
-            toolStripMenuItemHorizontal.Size = new Size(132, 22);
+            toolStripMenuItemHorizontal.Size = new Size(180, 22);
             toolStripMenuItemHorizontal.Text = "Horizontal";
+            toolStripMenuItemHorizontal.Click += toolStripMenuItemHorizontal_Click;
             // 
             // Defilement
             // 
             Defilement.Name = "Defilement";
-            Defilement.Size = new Size(132, 22);
+            Defilement.Size = new Size(180, 22);
             Defilement.Text = "Défilement";
+            Defilement.Click += Defilement_Click;
             // 
             // toolStripMainMenu
             // 

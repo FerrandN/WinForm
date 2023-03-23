@@ -8,9 +8,18 @@ namespace IdentificationWindow
         {
             InitializeComponent();
         }
-        
+
+        private void buttonOk_Click(object sender, EventArgs e)
+        {
+            if (textBoxLogin.Text == "Pizza" && textBoxPassWord.Text == "Castle")
+            {
+                this.DialogResult = DialogResult.OK;
+            }
+        }
+
+        private void buttonClear_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
     }
-    /*phase1ToolStripMenuItem.Enabled = true;
-    phase2ToolStripMenuItem.Enabled = true;
-    phase3ToolStripMenuItem.Enabled = true;*/
 }

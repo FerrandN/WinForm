@@ -25,11 +25,17 @@ namespace Menu
             IdentificationWindow.IdentificationWindow identification;
             identification = new IdentificationWindow.IdentificationWindow();
             identification.ShowDialog();
+            if (identification.DialogResult == DialogResult.OK)
+            {
+                phase1ToolStripMenuItem.Enabled = true;
+                phase2ToolStripMenuItem.Enabled = true;
+                phase3ToolStripMenuItem.Enabled = true;
+            }
         }
 
         private void quitterToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            DialogResult dialogResult = MessageBox.Show("Quit", "Do you want to quit?", MessageBoxButtons.YesNo);
+            DialogResult dialogResult = MessageBox.Show("Do you want to quit?", "Quit", MessageBoxButtons.YesNo);
             if (dialogResult == DialogResult.Yes)
             {
                 Close();
@@ -103,6 +109,21 @@ namespace Menu
             emprunt.Text += " n° " + empruntWindowCount;
             emprunt.MdiParent = this;
             emprunt.Show();
+        }
+
+        private void toolStripMenuItemCascade_Click(object sender, EventArgs e)
+        {
+            this.LayoutMdi(MdiLayout.Cascade);
+        }
+
+        private void toolStripMenuItemHorizontal_Click(object sender, EventArgs e)
+        {
+            this.LayoutMdi(MdiLayout.TileHorizontal);
+        }
+
+        private void Defilement_Click(object sender, EventArgs e)
+        {
+            this.LayoutMdi(MdiLayout.TileVertical);
         }
     }
 }

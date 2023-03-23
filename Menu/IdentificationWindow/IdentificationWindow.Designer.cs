@@ -70,21 +70,26 @@
             // 
             // buttonClear
             // 
+            buttonClear.DialogResult = DialogResult.Cancel;
             buttonClear.Location = new Point(299, 124);
             buttonClear.Name = "buttonClear";
             buttonClear.Size = new Size(75, 23);
             buttonClear.TabIndex = 4;
             buttonClear.Text = "Annuler";
             buttonClear.UseVisualStyleBackColor = true;
+            buttonClear.Click += buttonClear_Click;
             // 
             // buttonOk
             // 
+            buttonOk.DialogResult = DialogResult.OK;
             buttonOk.Location = new Point(299, 163);
             buttonOk.Name = "buttonOk";
+            buttonOk.RightToLeft = RightToLeft.No;
             buttonOk.Size = new Size(75, 23);
             buttonOk.TabIndex = 5;
             buttonOk.Text = "Ok";
             buttonOk.UseVisualStyleBackColor = true;
+            buttonOk.Click += buttonOk_Click;
             // 
             // IdentificationWindow
             // 
