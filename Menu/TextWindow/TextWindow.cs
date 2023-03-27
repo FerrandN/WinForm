@@ -18,6 +18,7 @@ namespace TextWindow
             radioButon.textBoxTypeText.Text = textBox.Text;
             radioButon.Text += " n° " +radioButtonWindowCount;
             radioButon.Show();
+            this.Close();
         }
     }
 }

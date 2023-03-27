@@ -84,10 +84,13 @@ namespace InputCheck
 
         private void CloseApp(object sender, FormClosingEventArgs e)
         {
-            DialogResult msgbx = MessageBox.Show("Fin de l'application", "FIN", MessageBoxButtons.YesNo, MessageBoxIcon.Asterisk);
-            if (msgbx == DialogResult.No)
+            if (this.MdiParent.Equals(null))
             {
-                e.Cancel = true;
+                DialogResult msgbx = MessageBox.Show("Fin de l'application", "FIN", MessageBoxButtons.YesNo, MessageBoxIcon.Asterisk);
+                if (msgbx == DialogResult.No)
+                {
+                    e.Cancel = true;
+                }
             }
         }
     }

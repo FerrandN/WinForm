@@ -87,7 +87,6 @@
             // phase1ToolStripMenuItem
             // 
             phase1ToolStripMenuItem.DropDownItems.AddRange(new ToolStripItem[] { additionneurToolStripMenuItem });
-            phase1ToolStripMenuItem.Enabled = false;
             phase1ToolStripMenuItem.Name = "phase1ToolStripMenuItem";
             phase1ToolStripMenuItem.Size = new Size(56, 20);
             phase1ToolStripMenuItem.Text = "Phase1";
@@ -95,14 +94,13 @@
             // additionneurToolStripMenuItem
             // 
             additionneurToolStripMenuItem.Name = "additionneurToolStripMenuItem";
-            additionneurToolStripMenuItem.Size = new Size(144, 22);
+            additionneurToolStripMenuItem.Size = new Size(180, 22);
             additionneurToolStripMenuItem.Text = "Additionneur";
             additionneurToolStripMenuItem.Click += additionneurToolStripMenuItem_Click;
             // 
             // phase2ToolStripMenuItem
             // 
             phase2ToolStripMenuItem.DropDownItems.AddRange(new ToolStripItem[] { saisieToolStripMenuItem });
-            phase2ToolStripMenuItem.Enabled = false;
             phase2ToolStripMenuItem.Name = "phase2ToolStripMenuItem";
             phase2ToolStripMenuItem.Size = new Size(56, 20);
             phase2ToolStripMenuItem.Text = "Phase2";
@@ -110,14 +108,13 @@
             // saisieToolStripMenuItem
             // 
             saisieToolStripMenuItem.Name = "saisieToolStripMenuItem";
-            saisieToolStripMenuItem.Size = new Size(103, 22);
+            saisieToolStripMenuItem.Size = new Size(180, 22);
             saisieToolStripMenuItem.Text = "Saisie";
             saisieToolStripMenuItem.Click += saisieToolStripMenuItem_Click;
             // 
             // phase3ToolStripMenuItem
             // 
             phase3ToolStripMenuItem.DropDownItems.AddRange(new ToolStripItem[] { checkBoxRadioToolStripMenuItem, listBoxToolStripMenuItem, comboBoxToolStripMenuItem, defilementToolStripMenuItem, empruntToolStripMenuItem });
-            phase3ToolStripMenuItem.Enabled = false;
             phase3ToolStripMenuItem.Name = "phase3ToolStripMenuItem";
             phase3ToolStripMenuItem.Size = new Size(56, 20);
             phase3ToolStripMenuItem.Text = "Phase3";
@@ -125,35 +122,35 @@
             // checkBoxRadioToolStripMenuItem
             // 
             checkBoxRadioToolStripMenuItem.Name = "checkBoxRadioToolStripMenuItem";
-            checkBoxRadioToolStripMenuItem.Size = new Size(157, 22);
+            checkBoxRadioToolStripMenuItem.Size = new Size(180, 22);
             checkBoxRadioToolStripMenuItem.Text = "CheckBoxRadio";
             checkBoxRadioToolStripMenuItem.Click += checkBoxRadioToolStripMenuItem_Click;
             // 
             // listBoxToolStripMenuItem
             // 
             listBoxToolStripMenuItem.Name = "listBoxToolStripMenuItem";
-            listBoxToolStripMenuItem.Size = new Size(157, 22);
+            listBoxToolStripMenuItem.Size = new Size(180, 22);
             listBoxToolStripMenuItem.Text = "ListBox";
             listBoxToolStripMenuItem.Click += listBoxToolStripMenuItem_Click;
             // 
             // comboBoxToolStripMenuItem
             // 
             comboBoxToolStripMenuItem.Name = "comboBoxToolStripMenuItem";
-            comboBoxToolStripMenuItem.Size = new Size(157, 22);
+            comboBoxToolStripMenuItem.Size = new Size(180, 22);
             comboBoxToolStripMenuItem.Text = "ComboBox";
             comboBoxToolStripMenuItem.Click += comboBoxToolStripMenuItem_Click;
             // 
             // defilementToolStripMenuItem
             // 
             defilementToolStripMenuItem.Name = "defilementToolStripMenuItem";
-            defilementToolStripMenuItem.Size = new Size(157, 22);
+            defilementToolStripMenuItem.Size = new Size(180, 22);
             defilementToolStripMenuItem.Text = "Defilement";
             defilementToolStripMenuItem.Click += defilementToolStripMenuItem_Click;
             // 
             // empruntToolStripMenuItem
             // 
             empruntToolStripMenuItem.Name = "empruntToolStripMenuItem";
-            empruntToolStripMenuItem.Size = new Size(157, 22);
+            empruntToolStripMenuItem.Size = new Size(180, 22);
             empruntToolStripMenuItem.Text = "Emprunt";
             empruntToolStripMenuItem.Click += empruntToolStripMenuItem_Click;
             // 

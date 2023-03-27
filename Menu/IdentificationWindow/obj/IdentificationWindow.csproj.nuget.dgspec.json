@@ -4,6 +4,572 @@
     "C:\\Users\\nferrand\\Desktop\\winform\\WinForm\\Menu\\IdentificationWindow\\IdentificationWindow.csproj": {}
   },
   "projects": {
+    "C:\\Users\\nferrand\\Desktop\\winform\\WinForm\\CheckInput\\InputCheck\\InputCheck\\InputCheck.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\nferrand\\Desktop\\winform\\WinForm\\CheckInput\\InputCheck\\InputCheck\\InputCheck.csproj",
+        "projectName": "InputCheck",
+        "projectPath": "C:\\Users\\nferrand\\Desktop\\winform\\WinForm\\CheckInput\\InputCheck\\InputCheck\\InputCheck.csproj",
+        "packagesPath": "C:\\Users\\nferrand\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nferrand\\Desktop\\winform\\WinForm\\CheckInput\\InputCheck\\InputCheck\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\nferrand\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\nferrand\\Desktop\\winform\\WinForm\\ComposantDeDefilement\\ChangeColor\\ChangeMyColor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\nferrand\\Desktop\\winform\\WinForm\\ComposantDeDefilement\\ChangeColor\\ChangeMyColor.csproj",
+        "projectName": "ChangeMyColor",
+        "projectPath": "C:\\Users\\nferrand\\Desktop\\winform\\WinForm\\ComposantDeDefilement\\ChangeColor\\ChangeMyColor.csproj",
+        "packagesPath": "C:\\Users\\nferrand\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nferrand\\Desktop\\winform\\WinForm\\ComposantDeDefilement\\ChangeColor\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\nferrand\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\nferrand\\Desktop\\winform\\WinForm\\ComposantDeDefilement\\ComposantDeDefilement\\ComposantDeDefilement.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\nferrand\\Desktop\\winform\\WinForm\\ComposantDeDefilement\\ComposantDeDefilement\\ComposantDeDefilement.csproj",
+        "projectName": "ComposantDeDefilement",
+        "projectPath": "C:\\Users\\nferrand\\Desktop\\winform\\WinForm\\ComposantDeDefilement\\ComposantDeDefilement\\ComposantDeDefilement.csproj",
+        "packagesPath": "C:\\Users\\nferrand\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nferrand\\Desktop\\winform\\WinForm\\ComposantDeDefilement\\ComposantDeDefilement\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\nferrand\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\nferrand\\Desktop\\winform\\WinForm\\Emprunts\\EmpruntLibrairies\\EmpruntLibrairies.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\nferrand\\Desktop\\winform\\WinForm\\Emprunts\\EmpruntLibrairies\\EmpruntLibrairies.csproj",
+        "projectName": "EmpruntLibrairies",
+        "projectPath": "C:\\Users\\nferrand\\Desktop\\winform\\WinForm\\Emprunts\\EmpruntLibrairies\\EmpruntLibrairies.csproj",
+        "packagesPath": "C:\\Users\\nferrand\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nferrand\\Desktop\\winform\\WinForm\\Emprunts\\EmpruntLibrairies\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\nferrand\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\nferrand\\Desktop\\winform\\WinForm\\Emprunts\\Emprunt\\Emprunt.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\nferrand\\Desktop\\winform\\WinForm\\Emprunts\\Emprunt\\Emprunt.csproj",
+        "projectName": "Emprunt",
+        "projectPath": "C:\\Users\\nferrand\\Desktop\\winform\\WinForm\\Emprunts\\Emprunt\\Emprunt.csproj",
+        "packagesPath": "C:\\Users\\nferrand\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nferrand\\Desktop\\winform\\WinForm\\Emprunts\\Emprunt\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\nferrand\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Users\\nferrand\\Desktop\\winform\\WinForm\\Emprunts\\EmpruntLibrairies\\EmpruntLibrairies.csproj": {
+                "projectPath": "C:\\Users\\nferrand\\Desktop\\winform\\WinForm\\Emprunts\\EmpruntLibrairies\\EmpruntLibrairies.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\nferrand\\Desktop\\winform\\WinForm\\Graphics_Object_Radio\\Graphics_Object_Radio\\Graphics_Object_Radio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\nferrand\\Desktop\\winform\\WinForm\\Graphics_Object_Radio\\Graphics_Object_Radio\\Graphics_Object_Radio.csproj",
+        "projectName": "Graphics_Object_Radio",
+        "projectPath": "C:\\Users\\nferrand\\Desktop\\winform\\WinForm\\Graphics_Object_Radio\\Graphics_Object_Radio\\Graphics_Object_Radio.csproj",
+        "packagesPath": "C:\\Users\\nferrand\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nferrand\\Desktop\\winform\\WinForm\\Graphics_Object_Radio\\Graphics_Object_Radio\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\nferrand\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\nferrand\\Desktop\\winform\\WinForm\\ListBoxEtComboBox\\ClassLibrarySelectedList\\ClassLibrarySelectedList.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\nferrand\\Desktop\\winform\\WinForm\\ListBoxEtComboBox\\ClassLibrarySelectedList\\ClassLibrarySelectedList.csproj",
+        "projectName": "ClassLibrarySelectedList",
+        "projectPath": "C:\\Users\\nferrand\\Desktop\\winform\\WinForm\\ListBoxEtComboBox\\ClassLibrarySelectedList\\ClassLibrarySelectedList.csproj",
+        "packagesPath": "C:\\Users\\nferrand\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nferrand\\Desktop\\winform\\WinForm\\ListBoxEtComboBox\\ClassLibrarySelectedList\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\nferrand\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\nferrand\\Desktop\\winform\\WinForm\\ListBoxEtComboBox\\ListBoxEtComboBox\\ListBoxEtComboBox.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\nferrand\\Desktop\\winform\\WinForm\\ListBoxEtComboBox\\ListBoxEtComboBox\\ListBoxEtComboBox.csproj",
+        "projectName": "ListBoxEtComboBox",
+        "projectPath": "C:\\Users\\nferrand\\Desktop\\winform\\WinForm\\ListBoxEtComboBox\\ListBoxEtComboBox\\ListBoxEtComboBox.csproj",
+        "packagesPath": "C:\\Users\\nferrand\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nferrand\\Desktop\\winform\\WinForm\\ListBoxEtComboBox\\ListBoxEtComboBox\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\nferrand\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Users\\nferrand\\Desktop\\winform\\WinForm\\ListBoxEtComboBox\\ClassLibrarySelectedList\\ClassLibrarySelectedList.csproj": {
+                "projectPath": "C:\\Users\\nferrand\\Desktop\\winform\\WinForm\\ListBoxEtComboBox\\ClassLibrarySelectedList\\ClassLibrarySelectedList.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\nferrand\\Desktop\\winform\\WinForm\\ListBoxOperation\\ListBoxOperation\\ListBoxOperation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\nferrand\\Desktop\\winform\\WinForm\\ListBoxOperation\\ListBoxOperation\\ListBoxOperation.csproj",
+        "projectName": "ListBoxOperation",
+        "projectPath": "C:\\Users\\nferrand\\Desktop\\winform\\WinForm\\ListBoxOperation\\ListBoxOperation\\ListBoxOperation.csproj",
+        "packagesPath": "C:\\Users\\nferrand\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nferrand\\Desktop\\winform\\WinForm\\ListBoxOperation\\ListBoxOperation\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\nferrand\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "C:\\Users\\nferrand\\Desktop\\winform\\WinForm\\Menu\\IdentificationWindow\\IdentificationWindow.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -32,7 +598,293 @@
         "frameworks": {
           "net6.0-windows7.0": {
             "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Users\\nferrand\\Desktop\\winform\\WinForm\\Menu\\Menu\\Menu.csproj": {
+                "projectPath": "C:\\Users\\nferrand\\Desktop\\winform\\WinForm\\Menu\\Menu\\Menu.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\nferrand\\Desktop\\winform\\WinForm\\Menu\\Menu\\Menu.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\nferrand\\Desktop\\winform\\WinForm\\Menu\\Menu\\Menu.csproj",
+        "projectName": "Menu",
+        "projectPath": "C:\\Users\\nferrand\\Desktop\\winform\\WinForm\\Menu\\Menu\\Menu.csproj",
+        "packagesPath": "C:\\Users\\nferrand\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nferrand\\Desktop\\winform\\WinForm\\Menu\\Menu\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\nferrand\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Users\\nferrand\\Desktop\\winform\\WinForm\\CheckInput\\InputCheck\\InputCheck\\InputCheck.csproj": {
+                "projectPath": "C:\\Users\\nferrand\\Desktop\\winform\\WinForm\\CheckInput\\InputCheck\\InputCheck\\InputCheck.csproj"
+              },
+              "C:\\Users\\nferrand\\Desktop\\winform\\WinForm\\ComposantDeDefilement\\ChangeColor\\ChangeMyColor.csproj": {
+                "projectPath": "C:\\Users\\nferrand\\Desktop\\winform\\WinForm\\ComposantDeDefilement\\ChangeColor\\ChangeMyColor.csproj"
+              },
+              "C:\\Users\\nferrand\\Desktop\\winform\\WinForm\\ComposantDeDefilement\\ComposantDeDefilement\\ComposantDeDefilement.csproj": {
+                "projectPath": "C:\\Users\\nferrand\\Desktop\\winform\\WinForm\\ComposantDeDefilement\\ComposantDeDefilement\\ComposantDeDefilement.csproj"
+              },
+              "C:\\Users\\nferrand\\Desktop\\winform\\WinForm\\Emprunts\\Emprunt\\Emprunt.csproj": {
+                "projectPath": "C:\\Users\\nferrand\\Desktop\\winform\\WinForm\\Emprunts\\Emprunt\\Emprunt.csproj"
+              },
+              "C:\\Users\\nferrand\\Desktop\\winform\\WinForm\\ListBoxEtComboBox\\ListBoxEtComboBox\\ListBoxEtComboBox.csproj": {
+                "projectPath": "C:\\Users\\nferrand\\Desktop\\winform\\WinForm\\ListBoxEtComboBox\\ListBoxEtComboBox\\ListBoxEtComboBox.csproj"
+              },
+              "C:\\Users\\nferrand\\Desktop\\winform\\WinForm\\ListBoxOperation\\ListBoxOperation\\ListBoxOperation.csproj": {
+                "projectPath": "C:\\Users\\nferrand\\Desktop\\winform\\WinForm\\ListBoxOperation\\ListBoxOperation\\ListBoxOperation.csproj"
+              },
+              "C:\\Users\\nferrand\\Desktop\\winform\\WinForm\\Menu\\TextWindow\\TextWindow.csproj": {
+                "projectPath": "C:\\Users\\nferrand\\Desktop\\winform\\WinForm\\Menu\\TextWindow\\TextWindow.csproj"
+              },
+              "C:\\Users\\nferrand\\Desktop\\winform\\WinForm\\Test\\WinFormsAppAddition\\WinFormsAppAddition.csproj": {
+                "projectPath": "C:\\Users\\nferrand\\Desktop\\winform\\WinForm\\Test\\WinFormsAppAddition\\WinFormsAppAddition.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\nferrand\\Desktop\\winform\\WinForm\\Menu\\TextWindow\\TextWindow.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\nferrand\\Desktop\\winform\\WinForm\\Menu\\TextWindow\\TextWindow.csproj",
+        "projectName": "TextWindow",
+        "projectPath": "C:\\Users\\nferrand\\Desktop\\winform\\WinForm\\Menu\\TextWindow\\TextWindow.csproj",
+        "packagesPath": "C:\\Users\\nferrand\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nferrand\\Desktop\\winform\\WinForm\\Menu\\TextWindow\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\nferrand\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Users\\nferrand\\Desktop\\winform\\WinForm\\Graphics_Object_Radio\\Graphics_Object_Radio\\Graphics_Object_Radio.csproj": {
+                "projectPath": "C:\\Users\\nferrand\\Desktop\\winform\\WinForm\\Graphics_Object_Radio\\Graphics_Object_Radio\\Graphics_Object_Radio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\nferrand\\Desktop\\winform\\WinForm\\Test\\MyClassTest\\MyClassTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\nferrand\\Desktop\\winform\\WinForm\\Test\\MyClassTest\\MyClassTest.csproj",
+        "projectName": "MyClassTest",
+        "projectPath": "C:\\Users\\nferrand\\Desktop\\winform\\WinForm\\Test\\MyClassTest\\MyClassTest.csproj",
+        "packagesPath": "C:\\Users\\nferrand\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nferrand\\Desktop\\winform\\WinForm\\Test\\MyClassTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\nferrand\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
             "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\nferrand\\Desktop\\winform\\WinForm\\Test\\WinFormsAppAddition\\WinFormsAppAddition.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\nferrand\\Desktop\\winform\\WinForm\\Test\\WinFormsAppAddition\\WinFormsAppAddition.csproj",
+        "projectName": "WinFormsAppAddition",
+        "projectPath": "C:\\Users\\nferrand\\Desktop\\winform\\WinForm\\Test\\WinFormsAppAddition\\WinFormsAppAddition.csproj",
+        "packagesPath": "C:\\Users\\nferrand\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nferrand\\Desktop\\winform\\WinForm\\Test\\WinFormsAppAddition\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\nferrand\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Users\\nferrand\\Desktop\\winform\\WinForm\\Test\\MyClassTest\\MyClassTest.csproj": {
+                "projectPath": "C:\\Users\\nferrand\\Desktop\\winform\\WinForm\\Test\\MyClassTest\\MyClassTest.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

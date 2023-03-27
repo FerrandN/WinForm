@@ -5,7 +5,7 @@ namespace Menu
 {
     public partial class frmMenu : Form
     {
-        List<Form> listForm;
+
         int additionWindowCount = 0;
         int saisieWindowCount = 0;
         int checkBoxRadioWindowCount = 0;
@@ -16,22 +16,24 @@ namespace Menu
         public frmMenu()
         {
             InitializeComponent();
-            listForm = new List<Form>();
             toolStripLabelDate.Text = DateTime.Now.Date.ToString("dd:MM:yyyy");
         }
 
         private void sIdentifierToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            IdentificationWindow.IdentificationWindow identification;
-            identification = new IdentificationWindow.IdentificationWindow();
-            identification.ShowDialog();
-            if (identification.DialogResult == DialogResult.OK)
-            {
-                phase1ToolStripMenuItem.Enabled = true;
-                phase2ToolStripMenuItem.Enabled = true;
-                phase3ToolStripMenuItem.Enabled = true;
-            }
+            /*
+                    IdentificationWindow.IdentificationWindow identification;
+                    identification = new IdentificationWindow.IdentificationWindow();
+                    identification.ShowDialog();
+                    if (identification.DialogResult == DialogResult.OK)
+                    {
+                        phase1ToolStripMenuItem.Enabled = true;
+                        phase2ToolStripMenuItem.Enabled = true;
+                        phase3ToolStripMenuItem.Enabled = true;
+                        fenetresToolStripMenuItem.Enabled = true;*/
+
         }
+
 
         private void quitterToolStripMenuItem_Click(object sender, EventArgs e)
         {

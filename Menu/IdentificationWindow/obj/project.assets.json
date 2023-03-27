@@ -1,11 +1,259 @@
 {
   "version": 3,
   "targets": {
-    "net6.0-windows7.0": {}
+    "net6.0-windows7.0": {
+      "ChangeMyColor/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/ChangeMyColor.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ChangeMyColor.dll": {}
+        }
+      },
+      "ClassLibrarySelectedList/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/ClassLibrarySelectedList.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ClassLibrarySelectedList.dll": {}
+        }
+      },
+      "ComposantDeDefilement/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/ComposantDeDefilement.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ComposantDeDefilement.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ]
+      },
+      "Emprunt/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "EmpruntLibrairies": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Emprunt.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Emprunt.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ]
+      },
+      "EmpruntLibrairies/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/EmpruntLibrairies.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EmpruntLibrairies.dll": {}
+        }
+      },
+      "Graphics_Object_Radio/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Graphics_Object_Radio.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Graphics_Object_Radio.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ]
+      },
+      "InputCheck/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/InputCheck.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/InputCheck.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ]
+      },
+      "ListBoxEtComboBox/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "ClassLibrarySelectedList": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ListBoxEtComboBox.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ListBoxEtComboBox.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ]
+      },
+      "ListBoxOperation/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/ListBoxOperation.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ListBoxOperation.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ]
+      },
+      "Menu/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "ChangeMyColor": "1.0.0",
+          "ComposantDeDefilement": "1.0.0",
+          "Emprunt": "1.0.0",
+          "InputCheck": "1.0.0",
+          "ListBoxEtComboBox": "1.0.0",
+          "ListBoxOperation": "1.0.0",
+          "TextWindow": "1.0.0",
+          "WinFormsAppAddition": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Menu.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Menu.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ]
+      },
+      "MyClassTest/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/MyClassTest.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MyClassTest.dll": {}
+        }
+      },
+      "TextWindow/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Graphics_Object_Radio": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/TextWindow.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TextWindow.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ]
+      },
+      "WinFormsAppAddition/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "MyClassTest": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/WinFormsAppAddition.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/WinFormsAppAddition.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ]
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "ChangeMyColor/1.0.0": {
+      "type": "project",
+      "path": "../../ComposantDeDefilement/ChangeColor/ChangeMyColor.csproj",
+      "msbuildProject": "../../ComposantDeDefilement/ChangeColor/ChangeMyColor.csproj"
+    },
+    "ClassLibrarySelectedList/1.0.0": {
+      "type": "project",
+      "path": "../../ListBoxEtComboBox/ClassLibrarySelectedList/ClassLibrarySelectedList.csproj",
+      "msbuildProject": "../../ListBoxEtComboBox/ClassLibrarySelectedList/ClassLibrarySelectedList.csproj"
+    },
+    "ComposantDeDefilement/1.0.0": {
+      "type": "project",
+      "path": "../../ComposantDeDefilement/ComposantDeDefilement/ComposantDeDefilement.csproj",
+      "msbuildProject": "../../ComposantDeDefilement/ComposantDeDefilement/ComposantDeDefilement.csproj"
+    },
+    "Emprunt/1.0.0": {
+      "type": "project",
+      "path": "../../Emprunts/Emprunt/Emprunt.csproj",
+      "msbuildProject": "../../Emprunts/Emprunt/Emprunt.csproj"
+    },
+    "EmpruntLibrairies/1.0.0": {
+      "type": "project",
+      "path": "../../Emprunts/EmpruntLibrairies/EmpruntLibrairies.csproj",
+      "msbuildProject": "../../Emprunts/EmpruntLibrairies/EmpruntLibrairies.csproj"
+    },
+    "Graphics_Object_Radio/1.0.0": {
+      "type": "project",
+      "path": "../../Graphics_Object_Radio/Graphics_Object_Radio/Graphics_Object_Radio.csproj",
+      "msbuildProject": "../../Graphics_Object_Radio/Graphics_Object_Radio/Graphics_Object_Radio.csproj"
+    },
+    "InputCheck/1.0.0": {
+      "type": "project",
+      "path": "../../CheckInput/InputCheck/InputCheck/InputCheck.csproj",
+      "msbuildProject": "../../CheckInput/InputCheck/InputCheck/InputCheck.csproj"
+    },
+    "ListBoxEtComboBox/1.0.0": {
+      "type": "project",
+      "path": "../../ListBoxEtComboBox/ListBoxEtComboBox/ListBoxEtComboBox.csproj",
+      "msbuildProject": "../../ListBoxEtComboBox/ListBoxEtComboBox/ListBoxEtComboBox.csproj"
+    },
+    "ListBoxOperation/1.0.0": {
+      "type": "project",
+      "path": "../../ListBoxOperation/ListBoxOperation/ListBoxOperation.csproj",
+      "msbuildProject": "../../ListBoxOperation/ListBoxOperation/ListBoxOperation.csproj"
+    },
+    "Menu/1.0.0": {
+      "type": "project",
+      "path": "../Menu/Menu.csproj",
+      "msbuildProject": "../Menu/Menu.csproj"
+    },
+    "MyClassTest/1.0.0": {
+      "type": "project",
+      "path": "../../Test/MyClassTest/MyClassTest.csproj",
+      "msbuildProject": "../../Test/MyClassTest/MyClassTest.csproj"
+    },
+    "TextWindow/1.0.0": {
+      "type": "project",
+      "path": "../TextWindow/TextWindow.csproj",
+      "msbuildProject": "../TextWindow/TextWindow.csproj"
+    },
+    "WinFormsAppAddition/1.0.0": {
+      "type": "project",
+      "path": "../../Test/WinFormsAppAddition/WinFormsAppAddition.csproj",
+      "msbuildProject": "../../Test/WinFormsAppAddition/WinFormsAppAddition.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0-windows7.0": []
+    "net6.0-windows7.0": [
+      "Menu >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\nferrand\\.nuget\\packages\\": {},
@@ -40,7 +288,11 @@
       "frameworks": {
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\nferrand\\Desktop\\winform\\WinForm\\Menu\\Menu\\Menu.csproj": {
+              "projectPath": "C:\\Users\\nferrand\\Desktop\\winform\\WinForm\\Menu\\Menu\\Menu.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

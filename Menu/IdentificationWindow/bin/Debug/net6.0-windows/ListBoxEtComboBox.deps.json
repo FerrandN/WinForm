@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ListBoxEtComboBox/1.0.0": {
+        "dependencies": {
+          "ClassLibrarySelectedList": "1.0.0"
+        },
+        "runtime": {
+          "ListBoxEtComboBox.dll": {}
+        }
+      },
+      "ClassLibrarySelectedList/1.0.0": {
+        "runtime": {
+          "ClassLibrarySelectedList.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ListBoxEtComboBox/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClassLibrarySelectedList/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

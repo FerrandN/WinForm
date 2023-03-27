@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "IdentificationWindow/1.0.0": {
+      "Graphics_Object_Radio/1.0.0": {
         "runtime": {
-          "IdentificationWindow.dll": {}
+          "Graphics_Object_Radio.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "IdentificationWindow/1.0.0": {
+    "Graphics_Object_Radio/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

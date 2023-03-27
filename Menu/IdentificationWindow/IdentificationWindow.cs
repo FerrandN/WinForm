@@ -1,3 +1,4 @@
+using Menu;
 using System.Configuration;
 
 namespace IdentificationWindow
@@ -13,7 +14,13 @@ namespace IdentificationWindow
         {
             if (textBoxLogin.Text == "Pizza" && textBoxPassWord.Text == "Castle")
             {
-                this.DialogResult = DialogResult.OK;
+                /*this.DialogResult = DialogResult.Abort;*/
+                frmMenu menu = new frmMenu();
+                menu.Show();
+            }
+            else
+            {
+
             }
         }
 

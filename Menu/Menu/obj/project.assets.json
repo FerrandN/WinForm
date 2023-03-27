@@ -74,19 +74,6 @@
           "Microsoft.WindowsDesktop.App.WindowsForms"
         ]
       },
-      "IdentificationWindow/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "compile": {
-          "bin/placeholder/IdentificationWindow.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/IdentificationWindow.dll": {}
-        },
-        "frameworkReferences": [
-          "Microsoft.WindowsDesktop.App.WindowsForms"
-        ]
-      },
       "InputCheck/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -204,11 +191,6 @@
       "path": "../../Graphics_Object_Radio/Graphics_Object_Radio/Graphics_Object_Radio.csproj",
       "msbuildProject": "../../Graphics_Object_Radio/Graphics_Object_Radio/Graphics_Object_Radio.csproj"
     },
-    "IdentificationWindow/1.0.0": {
-      "type": "project",
-      "path": "../IdentificationWindow/IdentificationWindow.csproj",
-      "msbuildProject": "../IdentificationWindow/IdentificationWindow.csproj"
-    },
     "InputCheck/1.0.0": {
       "type": "project",
       "path": "../../CheckInput/InputCheck/InputCheck/InputCheck.csproj",
@@ -245,7 +227,6 @@
       "ChangeMyColor >= 1.0.0",
       "ComposantDeDefilement >= 1.0.0",
       "Emprunt >= 1.0.0",
-      "IdentificationWindow >= 1.0.0",
       "InputCheck >= 1.0.0",
       "ListBoxEtComboBox >= 1.0.0",
       "ListBoxOperation >= 1.0.0",
@@ -304,9 +285,6 @@
             },
             "C:\\Users\\nferrand\\Desktop\\winform\\WinForm\\ListBoxOperation\\ListBoxOperation\\ListBoxOperation.csproj": {
               "projectPath": "C:\\Users\\nferrand\\Desktop\\winform\\WinForm\\ListBoxOperation\\ListBoxOperation\\ListBoxOperation.csproj"
-            },
-            "C:\\Users\\nferrand\\Desktop\\winform\\WinForm\\Menu\\IdentificationWindow\\IdentificationWindow.csproj": {
-              "projectPath": "C:\\Users\\nferrand\\Desktop\\winform\\WinForm\\Menu\\IdentificationWindow\\IdentificationWindow.csproj"
             },
             "C:\\Users\\nferrand\\Desktop\\winform\\WinForm\\Menu\\TextWindow\\TextWindow.csproj": {
               "projectPath": "C:\\Users\\nferrand\\Desktop\\winform\\WinForm\\Menu\\TextWindow\\TextWindow.csproj"
