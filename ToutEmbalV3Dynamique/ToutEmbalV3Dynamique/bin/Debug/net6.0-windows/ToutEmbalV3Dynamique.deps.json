@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ToutEmbalV3Dynamique/1.0.0": {
+        "dependencies": {
+          "Production": "1.0.0",
+          "UserControleProduction": "1.0.0"
+        },
+        "runtime": {
+          "ToutEmbalV3Dynamique.dll": {}
+        }
+      },
+      "Production/1.0.0": {
+        "runtime": {
+          "Production.dll": {}
+        }
+      },
+      "UserControleProduction/1.0.0": {
+        "runtime": {
+          "UserControleProduction.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ToutEmbalV3Dynamique/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Production/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UserControleProduction/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

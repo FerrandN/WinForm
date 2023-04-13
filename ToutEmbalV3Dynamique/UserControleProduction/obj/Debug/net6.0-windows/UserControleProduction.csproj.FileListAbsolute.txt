@@ -1,0 +1,17 @@
+C:\Users\nferrand\Desktop\winform\WinForm\ToutEmbalV3Dynamique\UserControleProduction\bin\Debug\net6.0-windows\UserControleProduction.deps.json
+C:\Users\nferrand\Desktop\winform\WinForm\ToutEmbalV3Dynamique\UserControleProduction\bin\Debug\net6.0-windows\UserControleProduction.dll
+C:\Users\nferrand\Desktop\winform\WinForm\ToutEmbalV3Dynamique\UserControleProduction\bin\Debug\net6.0-windows\UserControleProduction.pdb
+C:\Users\nferrand\Desktop\winform\WinForm\ToutEmbalV3Dynamique\UserControleProduction\obj\Debug\net6.0-windows\UserControleProduction.csproj.AssemblyReference.cache
+C:\Users\nferrand\Desktop\winform\WinForm\ToutEmbalV3Dynamique\UserControleProduction\obj\Debug\net6.0-windows\UserControleProduction.ProductionProgressBar.resources
+C:\Users\nferrand\Desktop\winform\WinForm\ToutEmbalV3Dynamique\UserControleProduction\obj\Debug\net6.0-windows\UserControleProduction.csproj.GenerateResource.cache
+C:\Users\nferrand\Desktop\winform\WinForm\ToutEmbalV3Dynamique\UserControleProduction\obj\Debug\net6.0-windows\UserControleProduction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nferrand\Desktop\winform\WinForm\ToutEmbalV3Dynamique\UserControleProduction\obj\Debug\net6.0-windows\UserControleProduction.AssemblyInfoInputs.cache
+C:\Users\nferrand\Desktop\winform\WinForm\ToutEmbalV3Dynamique\UserControleProduction\obj\Debug\net6.0-windows\UserControleProduction.AssemblyInfo.cs
+C:\Users\nferrand\Desktop\winform\WinForm\ToutEmbalV3Dynamique\UserControleProduction\obj\Debug\net6.0-windows\UserControleProduction.csproj.CoreCompileInputs.cache
+C:\Users\nferrand\Desktop\winform\WinForm\ToutEmbalV3Dynamique\UserControleProduction\obj\Debug\net6.0-windows\UserControleProduction.dll
+C:\Users\nferrand\Desktop\winform\WinForm\ToutEmbalV3Dynamique\UserControleProduction\obj\Debug\net6.0-windows\refint\UserControleProduction.dll
+C:\Users\nferrand\Desktop\winform\WinForm\ToutEmbalV3Dynamique\UserControleProduction\obj\Debug\net6.0-windows\UserControleProduction.pdb
+C:\Users\nferrand\Desktop\winform\WinForm\ToutEmbalV3Dynamique\UserControleProduction\obj\Debug\net6.0-windows\ref\UserControleProduction.dll
+C:\Users\nferrand\Desktop\winform\WinForm\ToutEmbalV3Dynamique\UserControleProduction\obj\Debug\net6.0-windows\UserControleProduction.ProductionTabControle.resources
+C:\Users\nferrand\Desktop\winform\WinForm\ToutEmbalV3Dynamique\UserControleProduction\obj\Debug\net6.0-windows\UserControleProduction.ProductionLights.resources
+C:\Users\nferrand\Desktop\winform\WinForm\ToutEmbalV3Dynamique\UserControleProduction\obj\Debug\net6.0-windows\UserControleProduction.Properties.Resources.resources

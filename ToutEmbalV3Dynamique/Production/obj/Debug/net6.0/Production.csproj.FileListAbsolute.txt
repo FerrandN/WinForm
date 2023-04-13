@@ -1,0 +1,12 @@
+C:\Users\nferrand\Desktop\winform\WinForm\ToutEmbalV3Dynamique\Production\bin\Debug\net6.0\Production.deps.json
+C:\Users\nferrand\Desktop\winform\WinForm\ToutEmbalV3Dynamique\Production\bin\Debug\net6.0\Production.dll
+C:\Users\nferrand\Desktop\winform\WinForm\ToutEmbalV3Dynamique\Production\bin\Debug\net6.0\Production.pdb
+C:\Users\nferrand\Desktop\winform\WinForm\ToutEmbalV3Dynamique\Production\obj\Debug\net6.0\Production.csproj.AssemblyReference.cache
+C:\Users\nferrand\Desktop\winform\WinForm\ToutEmbalV3Dynamique\Production\obj\Debug\net6.0\Production.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nferrand\Desktop\winform\WinForm\ToutEmbalV3Dynamique\Production\obj\Debug\net6.0\Production.AssemblyInfoInputs.cache
+C:\Users\nferrand\Desktop\winform\WinForm\ToutEmbalV3Dynamique\Production\obj\Debug\net6.0\Production.AssemblyInfo.cs
+C:\Users\nferrand\Desktop\winform\WinForm\ToutEmbalV3Dynamique\Production\obj\Debug\net6.0\Production.csproj.CoreCompileInputs.cache
+C:\Users\nferrand\Desktop\winform\WinForm\ToutEmbalV3Dynamique\Production\obj\Debug\net6.0\Production.dll
+C:\Users\nferrand\Desktop\winform\WinForm\ToutEmbalV3Dynamique\Production\obj\Debug\net6.0\refint\Production.dll
+C:\Users\nferrand\Desktop\winform\WinForm\ToutEmbalV3Dynamique\Production\obj\Debug\net6.0\Production.pdb
+C:\Users\nferrand\Desktop\winform\WinForm\ToutEmbalV3Dynamique\Production\obj\Debug\net6.0\ref\Production.dll
