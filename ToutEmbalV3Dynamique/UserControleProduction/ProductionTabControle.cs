@@ -12,6 +12,8 @@ namespace UserControleProduction
 {
     public partial class ProductionTabControle : UserControl
     {
+
+        public String CrateProducedText { get => textBoxCrateProduced.Text; set => textBoxCrateProduced.Text = value; }
         public ProductionTabControle()
         {
             InitializeComponent();

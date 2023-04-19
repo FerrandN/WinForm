@@ -1,0 +1,12 @@
+C:\Users\nferrand\Desktop\winform\WinForm\TrainingVSCodeDB\ModifyDB\bin\Debug\net6.0\ModifyDB.deps.json
+C:\Users\nferrand\Desktop\winform\WinForm\TrainingVSCodeDB\ModifyDB\bin\Debug\net6.0\ModifyDB.dll
+C:\Users\nferrand\Desktop\winform\WinForm\TrainingVSCodeDB\ModifyDB\bin\Debug\net6.0\ModifyDB.pdb
+C:\Users\nferrand\Desktop\winform\WinForm\TrainingVSCodeDB\ModifyDB\obj\Debug\net6.0\ModifyDB.csproj.AssemblyReference.cache
+C:\Users\nferrand\Desktop\winform\WinForm\TrainingVSCodeDB\ModifyDB\obj\Debug\net6.0\ModifyDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nferrand\Desktop\winform\WinForm\TrainingVSCodeDB\ModifyDB\obj\Debug\net6.0\ModifyDB.AssemblyInfoInputs.cache
+C:\Users\nferrand\Desktop\winform\WinForm\TrainingVSCodeDB\ModifyDB\obj\Debug\net6.0\ModifyDB.AssemblyInfo.cs
+C:\Users\nferrand\Desktop\winform\WinForm\TrainingVSCodeDB\ModifyDB\obj\Debug\net6.0\ModifyDB.csproj.CoreCompileInputs.cache
+C:\Users\nferrand\Desktop\winform\WinForm\TrainingVSCodeDB\ModifyDB\obj\Debug\net6.0\ModifyDB.dll
+C:\Users\nferrand\Desktop\winform\WinForm\TrainingVSCodeDB\ModifyDB\obj\Debug\net6.0\refint\ModifyDB.dll
+C:\Users\nferrand\Desktop\winform\WinForm\TrainingVSCodeDB\ModifyDB\obj\Debug\net6.0\ModifyDB.pdb
+C:\Users\nferrand\Desktop\winform\WinForm\TrainingVSCodeDB\ModifyDB\obj\Debug\net6.0\ref\ModifyDB.dll

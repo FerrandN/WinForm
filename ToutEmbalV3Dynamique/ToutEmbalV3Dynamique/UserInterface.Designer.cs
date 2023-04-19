@@ -147,6 +147,7 @@
             // 
             // flowLayoutPanelChangeState
             // 
+            this.flowLayoutPanelChangeState.AutoScroll = true;
             this.flowLayoutPanelChangeState.Location = new System.Drawing.Point(12, 27);
             this.flowLayoutPanelChangeState.Name = "flowLayoutPanelChangeState";
             this.flowLayoutPanelChangeState.Size = new System.Drawing.Size(776, 80);
