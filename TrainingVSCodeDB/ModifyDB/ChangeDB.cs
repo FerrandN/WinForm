@@ -2,6 +2,9 @@
 {
     public class ChangeDB
     {
+        public ChangeDB()
+        {
 
+        }
     }
 }

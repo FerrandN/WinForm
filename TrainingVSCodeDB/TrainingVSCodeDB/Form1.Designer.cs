@@ -64,6 +64,7 @@
             this.buttonAdd.TabIndex = 1;
             this.buttonAdd.Text = "Add";
             this.buttonAdd.UseVisualStyleBackColor = true;
+            this.buttonAdd.Click += new System.EventHandler(this.buttonAdd_Click);
             // 
             // buttonSup
             // 
@@ -74,6 +75,7 @@
             this.buttonSup.TabIndex = 2;
             this.buttonSup.Text = "Sup";
             this.buttonSup.UseVisualStyleBackColor = true;
+            this.buttonSup.Click += new System.EventHandler(this.buttonSup_Click);
             // 
             // buttonChange
             // 
@@ -84,6 +86,7 @@
             this.buttonChange.TabIndex = 3;
             this.buttonChange.Text = "Change";
             this.buttonChange.UseVisualStyleBackColor = true;
+            this.buttonChange.Click += new System.EventHandler(this.buttonChange_Click);
             // 
             // textBoxDevelopperName
             // 
@@ -91,6 +94,7 @@
             this.textBoxDevelopperName.Name = "textBoxDevelopperName";
             this.textBoxDevelopperName.Size = new System.Drawing.Size(172, 23);
             this.textBoxDevelopperName.TabIndex = 5;
+            this.textBoxDevelopperName.TextChanged += new System.EventHandler(this.ChangeButtonState);
             // 
             // labelGameName
             // 
@@ -116,6 +120,7 @@
             this.textBoxTypeName.Name = "textBoxTypeName";
             this.textBoxTypeName.Size = new System.Drawing.Size(172, 23);
             this.textBoxTypeName.TabIndex = 8;
+            this.textBoxTypeName.TextChanged += new System.EventHandler(this.ChangeButtonState);
             // 
             // labelDevelopperName
             // 
@@ -132,6 +137,7 @@
             this.textBoxGameName.Name = "textBoxGameName";
             this.textBoxGameName.Size = new System.Drawing.Size(172, 23);
             this.textBoxGameName.TabIndex = 10;
+            this.textBoxGameName.TextChanged += new System.EventHandler(this.ChangeButtonState);
             // 
             // labelGameToChange
             // 
@@ -146,9 +152,9 @@
             // 
             this.textBoxGameToChange.Location = new System.Drawing.Point(618, 243);
             this.textBoxGameToChange.Name = "textBoxGameToChange";
-            this.textBoxGameToChange.ReadOnly = true;
             this.textBoxGameToChange.Size = new System.Drawing.Size(172, 23);
             this.textBoxGameToChange.TabIndex = 12;
+            this.textBoxGameToChange.TextChanged += new System.EventHandler(this.ChangeButtonState);
             // 
             // comboBoxDevelloperName
             // 

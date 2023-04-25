@@ -1,0 +1,17 @@
+C:\Users\nferrand\Desktop\winform\WinForm\ECF_Blanc\Form_AddNewGameToDB\bin\Debug\net6.0-windows\Form_AddNewGameToDB.exe
+C:\Users\nferrand\Desktop\winform\WinForm\ECF_Blanc\Form_AddNewGameToDB\bin\Debug\net6.0-windows\Form_AddNewGameToDB.deps.json
+C:\Users\nferrand\Desktop\winform\WinForm\ECF_Blanc\Form_AddNewGameToDB\bin\Debug\net6.0-windows\Form_AddNewGameToDB.runtimeconfig.json
+C:\Users\nferrand\Desktop\winform\WinForm\ECF_Blanc\Form_AddNewGameToDB\bin\Debug\net6.0-windows\Form_AddNewGameToDB.dll
+C:\Users\nferrand\Desktop\winform\WinForm\ECF_Blanc\Form_AddNewGameToDB\bin\Debug\net6.0-windows\Form_AddNewGameToDB.pdb
+C:\Users\nferrand\Desktop\winform\WinForm\ECF_Blanc\Form_AddNewGameToDB\obj\Debug\net6.0-windows\Form_AddNewGameToDB.csproj.AssemblyReference.cache
+C:\Users\nferrand\Desktop\winform\WinForm\ECF_Blanc\Form_AddNewGameToDB\obj\Debug\net6.0-windows\Form_AddNewGameToDB.WindowInfosGamesToAdd.resources
+C:\Users\nferrand\Desktop\winform\WinForm\ECF_Blanc\Form_AddNewGameToDB\obj\Debug\net6.0-windows\Form_AddNewGameToDB.csproj.GenerateResource.cache
+C:\Users\nferrand\Desktop\winform\WinForm\ECF_Blanc\Form_AddNewGameToDB\obj\Debug\net6.0-windows\Form_AddNewGameToDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nferrand\Desktop\winform\WinForm\ECF_Blanc\Form_AddNewGameToDB\obj\Debug\net6.0-windows\Form_AddNewGameToDB.AssemblyInfoInputs.cache
+C:\Users\nferrand\Desktop\winform\WinForm\ECF_Blanc\Form_AddNewGameToDB\obj\Debug\net6.0-windows\Form_AddNewGameToDB.AssemblyInfo.cs
+C:\Users\nferrand\Desktop\winform\WinForm\ECF_Blanc\Form_AddNewGameToDB\obj\Debug\net6.0-windows\Form_AddNewGameToDB.csproj.CoreCompileInputs.cache
+C:\Users\nferrand\Desktop\winform\WinForm\ECF_Blanc\Form_AddNewGameToDB\obj\Debug\net6.0-windows\Form_AddNewGameToDB.dll
+C:\Users\nferrand\Desktop\winform\WinForm\ECF_Blanc\Form_AddNewGameToDB\obj\Debug\net6.0-windows\refint\Form_AddNewGameToDB.dll
+C:\Users\nferrand\Desktop\winform\WinForm\ECF_Blanc\Form_AddNewGameToDB\obj\Debug\net6.0-windows\Form_AddNewGameToDB.pdb
+C:\Users\nferrand\Desktop\winform\WinForm\ECF_Blanc\Form_AddNewGameToDB\obj\Debug\net6.0-windows\Form_AddNewGameToDB.genruntimeconfig.cache
+C:\Users\nferrand\Desktop\winform\WinForm\ECF_Blanc\Form_AddNewGameToDB\obj\Debug\net6.0-windows\ref\Form_AddNewGameToDB.dll
